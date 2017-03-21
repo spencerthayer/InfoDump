@@ -1,0 +1,142 @@
+# Discrediting the Russian Hacking Narrative
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+A list of sources to discredit the publicly accepted narrative that it is certain that the Russian's
+were the responsible parties whose "hacking" influenced the 2016 election.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Questions, comments, and amendments please send to @spencerthayer on Twitter.
+
+ ██████╗ ██████╗ ██╗███████╗███████╗██╗  ██╗   ██╗    ███████╗████████╗███████╗██████╗ ██████╗ ███████╗
+██╔════╝ ██╔══██╗██║╚══███╔╝╚══███╔╝██║  ╚██╗ ██╔╝    ██╔════╝╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██╔════╝
+██║  ███╗██████╔╝██║  ███╔╝   ███╔╝ ██║   ╚████╔╝     ███████╗   ██║   █████╗  ██████╔╝██████╔╝█████╗  
+██║   ██║██╔══██╗██║ ███╔╝   ███╔╝  ██║    ╚██╔╝      ╚════██║   ██║   ██╔══╝  ██╔═══╝ ██╔═══╝ ██╔══╝  
+╚██████╔╝██║  ██║██║███████╗███████╗███████╗██║       ███████║   ██║   ███████╗██║     ██║     ███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝       ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝     ╚══════╝
+
+Grizzly Steppe: Here's My IP and Hash Analysis
+http://anewdomain.net/grizzly-steppe-heres-jerry-gamblin-ip-and-hash-analysis
+
+DHS slammed for report on Russian hackers                                        
+https://cyberscoop.com/dhs-election-hacking-grizzly-steppe-iocs
+
+New DHS Russian hacking report was designed for RSA crowds - Cyberscoop
+https://cyberscoop.com/new-dhs-russian-hacking-report-designed-rsa-crowds
+
+“GRIZZLY STEPPE”: IS THIS A JOKE?
+http://www.powerlineblog.com/archives/2016/12/grizzly-steppe-is-this-a-joke.php
+
+Is 'Grizzly Steppe' Really a Russian Operation?
+http://www.powerlineblog.com/archives/2016/12/is-grizzly-steppe-really-a-russian-operation.php
+
+FBI/DHS Joint Analysis Report: A Fatally Flawed Effort
+https://medium.com/@jeffreycarr/fbi-dhs-joint-analysis-report-a-fatally-flawed-effort-b6a98fafe2fa
+
+Dear Obama, From Infosec Security Expert Robert Graham 
+http://blog.erratasec.com/2017/01/dear-obama-from-infosec.html
+
+Dissection of Sednit espionage group
+http://web.archive.org/web/20170101144438/http://eset.com/us/about/newsroom/press-releases/dissection-of-sednit-espionage-group-1
+
+- Part 1: “En Route with Sednit: Approaching the Target”
+- http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part1.pdf
+
+- Part 2: “En Route with Sednit: Observing the Comings and Goings”    
+- http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part-2.pdf      
+
+- Part 3: “En Route with Sednit: A Mysterious Downloader”
+- http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part3.pdf
+
+The Yandex Domain Problem Or Who In Russian Intelligence Doesn’t Speak Russian?
+https://medium.com/@jeffreycarr/the-yandex-domain-problem-2076089e330b
+
+ ██████╗ ██╗   ██╗ ██████╗ ██████╗██╗███████╗███████╗██████╗ ██████╗     ██████╗ 
+██╔════╝ ██║   ██║██╔════╝██╔════╝██║██╔════╝██╔════╝██╔══██╗╚════██╗   ██╔═████╗
+██║  ███╗██║   ██║██║     ██║     ██║█████╗  █████╗  ██████╔╝ █████╔╝   ██║██╔██║
+██║   ██║██║   ██║██║     ██║     ██║██╔══╝  ██╔══╝  ██╔══██╗██╔═══╝    ████╔╝██║
+╚██████╔╝╚██████╔╝╚██████╗╚██████╗██║██║     ███████╗██║  ██║███████╗██╗╚██████╔╝
+ ╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝ 
+
+Metadata Shows DNC Contractor & G2's Activity Only 30 Minutes Apart on Significant Date
+http://g-2.space/
+
+Open Letter To CrowdStrike
+http://g-2.space/dearcs.html
+
+██╗    ██╗██╗██╗  ██╗██╗██╗     ███████╗ █████╗ ██╗  ██╗███████╗
+██║    ██║██║██║ ██╔╝██║██║     ██╔════╝██╔══██╗██║ ██╔╝██╔════╝
+██║ █╗ ██║██║█████╔╝ ██║██║     █████╗  ███████║█████╔╝ ███████╗
+██║███╗██║██║██╔═██╗ ██║██║     ██╔══╝  ██╔══██║██╔═██╗ ╚════██║
+╚███╔███╔╝██║██║  ██╗██║███████╗███████╗██║  ██║██║  ██╗███████║
+ ╚══╝╚══╝ ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+
+WikiLeaks envoy: Leaked DNC emails came from 'disgusted' whistleblower, not Russian hackers
+https://www.rt.com/news/370478-dnc-emails-whistleblower-russia
+
+Why the DNC Emails Were Leaked Not Hacked
+http://www.counterpunch.org/2017/01/06/why-the-dnc-emails-were-leaked-not-hacked/
+
+WikiLeaks’ Latest CIA Data Dump Undermines Case Against Russia Election Hack
+http://www.counterpunch.org/2017/03/10/wikileaks-latest-cia-data-dump-undermines-case-against-russia-election-hack
+
+DNC docs were leaked, not hacked, intelligence veterans say
+https://www.rt.com/usa/370447-russia-hack-intelligence-dissent
+
+A '14-Year-Old Could Have Hacked' Podesta: Assange Sits Down With Hannity
+http://insider.foxnews.com/2017/01/03/wikileaks-editor-julian-assange-alleged-russian-hacking-clinton-emails-donald-trump
+
+████████╗██╗  ██╗███████╗    ██╗███╗   ██╗████████╗███████╗██████╗  ██████╗███████╗██████╗ ████████╗    
+╚══██╔══╝██║  ██║██╔════╝    ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗╚══██╔══╝    
+   ██║   ███████║█████╗      ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝██║     █████╗  ██████╔╝   ██║       
+   ██║   ██╔══██║██╔══╝      ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗██║     ██╔══╝  ██╔═══╝    ██║       
+   ██║   ██║  ██║███████╗    ██║██║ ╚████║   ██║   ███████╗██║  ██║╚██████╗███████╗██║        ██║       
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝        ╚═╝       
+
+Here’s the Public Evidence Russia Hacked the DNC — It’s Not Enough
+https://theintercept.com/2016/12/14/heres-the-public-evidence-russia-hacked-the-dnc-its-not-enough/
+
+Leading Putin Critic Warns of Xenophobic Conspiracy Theories Drowning U.S. Discourse and Helping Trump
+https://theintercept.com/2017/03/07/leading-putin-critic-warns-of-xenophobic-conspiracy-theories-drowning-u-s-discourse-and-helping-trump
+
+The U.S. Government Thinks Thousands of Russian Hackers May Be Reading My Blog. They Aren’t.
+https://theintercept.com/2017/01/04/the-u-s-government-thinks-thousands-of-russian-hackers-are-reading-my-blog-they-arent
+
+The Increasingly Unhinged Russia Rhetoric Comes From a Long-Standing U.S. Playbook
+https://theintercept.com/2017/02/23/the-increasingly-unhinged-russia-rhetoric-comes-from-a-long-standing-u-s-playbook
+
+Anonymous Leaks to the WashPost About the CIA’s Russia Beliefs Are No Substitute for Evidence
+https://theintercept.com/2016/12/10/anonymous-leaks-to-the-washpost-about-the-cias-russia-beliefs-are-no-substitute-for-evidence
+
+WashPost is Richly Rewarded for False News about Russia Threat While Public is Deceived
+https://theintercept.com/2017/01/04/washpost-is-richly-rewarded-for-false-news-about-russia-threat-while-public-is-deceived
+
+Underwhelming Intel Report Shows Need for Congressional Investigation of DNC Hack
+https://theintercept.com/2017/01/06/underwhelming-intel-report-shows-need-for-congressional-investigation-of-dnc-hack/
+
+███╗   ███╗ █████╗ ██████╗ ██████╗ ██╗   ██╗███████╗███████╗██╗ █████╗ ███╗   ██╗███████╗
+████╗ ████║██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝██║██╔══██╗████╗  ██║██╔════╝
+██╔████╔██║███████║██║  ██║██████╔╝██║   ██║███████╗███████╗██║███████║██╔██╗ ██║███████╗
+██║╚██╔╝██║██╔══██║██║  ██║██╔══██╗██║   ██║╚════██║╚════██║██║██╔══██║██║╚██╗██║╚════██║
+██║ ╚═╝ ██║██║  ██║██████╔╝██║  ██║╚██████╔╝███████║███████║██║██║  ██║██║ ╚████║███████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
+                                                              
+Russia: The Conspiracy Trap
+http://www.nybooks.com/daily/2017/03/06/trump-russia-conspiracy-trap/
+
+Why doubts still cloud Russian hacking allegations
+http://www.csmonitor.com/World/Passcode/2017/0105/Why-doubts-still-cloud-Russian-hacking-allegations
+
+Allegations Against Russia Less Credible Every Day
+http://www.counterpunch.org/2017/01/09/allegations-against-russia-less-credible-every-day
+
+Ah, So Putin Didn’t Hack Those Emails After All
+http://www.counterpunch.org/2016/12/16/ah-so-putin-didnt-hack-those-emails-after-all
+
+A Game of Russian Roulette
+https://www.jacobinmag.com/2017/01/trump-putin-kremlin-russia-presidential-election
+
+A Comprehensive List of 'Smoking Gun' Evidence the Russian Government 'Hacked the Election'
+http://ijr.com/wildfire/2017/01/768714-a-comprehensive-list-of-smoking-gun-evidence-the-russian-government-hacked-the-election
+
+US Spy Chief Presents Third-Party Debates As Proof RT Is Anti-US
+http://www.mintpressnews.com/us-spy-chief-presents-third-party-debates-proof-rt-anti-us/223902
